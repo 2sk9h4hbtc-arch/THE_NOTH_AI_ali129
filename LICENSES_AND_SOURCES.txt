@@ -1,0 +1,4 @@
+App source code: provided as-is for user customization.
+Food image classification model: onnx-community/swin-finetuned-food101-ONNX, Apache-2.0 license according to the Hugging Face model page.
+Transformers.js: https://github.com/huggingface/transformers.js
+Nutrition values: approximate general reference estimates manually curated for this app; not a certified nutrition database. Verify packaged foods from their nutrition labels.
